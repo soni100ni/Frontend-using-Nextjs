@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "title": "Guitar Basics for Beginners",
+      "slug": "guitar-basics-for-beginners",
+      "description": "Learn the fundamentals of playing the guitar, including chords, strumming, and basic songs.",
+      "price": 49.99,
+      "instructor": "John Mayer",
+      "isFeatured": true,
+      "image": "images/guitar_basics.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Mastering Piano Techniques",
+      "slug": "mastering-piano-techniques",
+      "description": "An intermediate course focusing on piano finger techniques, scales, and harmony.",
+      "price": 59.99,
+      "instructor": "Alicia Keys",
+      "isFeatured": false,
+      "image": "images/piano_techniques.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Electronic Music Production",
+      "slug": "electronic-music-production",
+      "description": "Create your own electronic music using digital audio workstations and sound design.",
+      "price": 69.99,
+      "instructor": "Deadmau5",
+      "isFeatured": true,
+      "image": "images/electronic_music.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Jazz Improvisation",
+      "slug": "jazz-improvisation",
+      "description": "Explore jazz theory and improvisational techniques to elevate your performance.",
+      "price": 39.99,
+      "instructor": "Herbie Hancock",
+      "isFeatured": false,
+      "image": "images/jazz_improv.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Vocal Training 101",
+      "slug": "vocal-training-101",
+      "description": "Build your vocal range, pitch control, and breathing techniques for better singing.",
+      "price": 29.99,
+      "instructor": "Ariana Grande",
+      "isFeatured": true,
+      "image": "images/vocal_training.jpg"
+    }
+  ]
+  
